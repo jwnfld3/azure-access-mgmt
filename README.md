@@ -1,4 +1,4 @@
-# Entra ID (formerly Azure Active Directory) Identity & Access Management (IAM)
+# Entra ID Identity & Access Management (IAM)
 
 ## Overview
 
