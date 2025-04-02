@@ -54,5 +54,7 @@ Click "Refresh" to ensure the role has been added to the user. The assignment wi
 ![image](https://github.com/user-attachments/assets/27dca87f-01b0-4042-ad33-b58b596800da)
 
 
+## Conclusion
 
+In this lab, the key principles of **Entra ID IAM** were explored. Azure Active Directory, Role-Based Access Control (RBAC), and Conditional Access policies were configured to manage and secure user access to Azure resources. These practices are essential for maintaining a secure cloud environment and ensuring that only authorized individuals can access sensitive resources.
 
