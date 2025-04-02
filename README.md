@@ -28,6 +28,7 @@ Effective **Identity & Access Management (IAM)** is the **first line of defense*
 - **Global Administrator** or **Security Administrator** role in Entra ID.
 - A **test user account** to apply security policies.
 
+**Click on the images below to view the full-size version**
 ---
 
 ## Lab Setup & Steps
