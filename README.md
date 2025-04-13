@@ -34,6 +34,32 @@ Effective **Identity & Access Management (IAM)** is the **first line of defense*
 ## Lab Setup & Steps
 
 ### 1. Configure Role-Based Access Control (RBAC) for Least Privilege
+
+**Role-Based Access Control (RBAC)** in Azure is a system that manages user and service permissions by assigning roles to identities at a specific scope—such as a subscription, resource group, or individual resource. RBAC follows the **principle of least privilege**, ensuring that users and services have only the minimum access required to perform their tasks.
+
+---
+
+### Key Concepts:
+- **Role Definitions**: A collection of permissions. Azure provides built-in roles like Owner, Contributor, and Reader, as well as support for custom roles.
+- **Assignments**: A role assignment binds a security principal (user, group, or service principal) to a role at a specific scope.
+- **Scope**: Defines the boundary of access, including subscriptions, resource groups, and individual resources.
+
+---
+
+### Why It Matters:
+- **Improves security** by preventing unnecessary access to critical resources.
+- **Supports compliance** by enabling fine-grained control over permissions.
+- **Minimizes risk** of accidental or malicious changes in the environment.
+
+---
+
+### Best Practices for Least Privilege:
+- Grant the lowest level of access needed.
+- Use **custom roles** when built-in roles are too broad.
+- Regularly **review and audit** role assignments.
+- Assign roles to **groups**, not individual users, for easier management.
+
+
 #### Objective:
 Restrict access using **Entra ID RBAC** to ensure users only have permissions needed for their job.
 
