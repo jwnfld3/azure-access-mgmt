@@ -1,7 +1,7 @@
 # Microsoft Entra ID Identity and Access Management
 
 ## Definition: Entra ID Identity & Access Management (IAM)
-Microsoft Entra ID Identity & Access Management (IAM) is a cloud-based identity solution that enables organizations to securely manage user access to applications, devices, and data. It provides authentication, authorization, and governance capabilities, ensuring that only authorized users can access critical resources while maintaining compliance with security policies.
+Microsoft Entra ID Identity and Access Management is a cloud based identity service that enables organizations to securely manage user authentication and access to applications, devices, and organizational resources. It provides authentication, authorization, and identity governance capabilities to ensure that only authorized users can access critical systems while maintaining compliance with organizational security policies.
 
 ### Who:
 This lab is designed for **cybersecurity professionals, cloud administrators, and IT security analysts** looking to gain hands-on experience in securing identities in **Entra ID (formerly Azure AD)**.
